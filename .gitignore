@@ -1,6 +1,8 @@
-/bin/
-/.classpath
-/target/
-/.settings/
-/.project
-/conf.properties
+**/bin/
+**/.classpath
+**/target/
+**/.settings/
+**/.project
+**/conf.properties
+**/.idea
+**/*.iml
